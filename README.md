@@ -155,6 +155,7 @@ Benefit: Wireframes give an early visual of the user interface to designers and 
 Example: On the booking management system, a wireframe can show how it will accommodate the booking form, navigation menu, and even user profiles, guaranteeing that their placement is natural and intuitive for the end-users.
 
 *Functionality Focus*
+
 With the merit of focusing on its simple structure, wireframes ease identification and development of usability problems discovered at earlier stages.
 
 Example: The wireframes for the booking system can outline the process of creating a booking, processing payments, and managing bookings in such a way that each function is well-defined and user-friendly.
