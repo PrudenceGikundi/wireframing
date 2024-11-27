@@ -74,25 +74,25 @@ From this link https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbn
 
 Following are the popular wireframing tool
 
-Draw.io
+**Draw.io**
 Overview: Web-based diagramming for wireframing(low fidelity wireframes), flowcharting, and beyond.
 Key Features: Ease of use, mockup shapes, real-time collaboration, integration with cloud storage, security, versatility.
 Usefulness: Accessible from any device, it supports real-time collaboration, has an extensive shape library, and integrates well with popular cloud storage services.
 
-Sketch
+**Sketch**
 Overview: Simple, yet powerful vector design tool. Features Offers comprehensive plugins, vector editing options, and prototyping. Effective for Detailed high fidelity wireframes and collaborative design efforts. 
 
-Moqups
+**Moqups**
 Overview A web-based platform for constructing wireframes, mock-ups, and prototypes.
 Features: drag-and-drop interface, pre-built templates, and real-time collaboration.
 Usefulness: Excellent for novice users and simple wireframe creations.
 
-UXPin
+**UXPin**
 Overview: An end-to-end design tool which bridges the gap between design and development.
 Features: interactive prototypes, design systems, and documentation tools.
 Usefulness: The best tool for developers when designers have to hand over design documentation.
 
-Adobe XD:
+**Adobe XD**
 Overview: A vector-based tool for designing and prototyping user experiences.
 Features include integrations with other Adobe products, responsive resize, and voice prototyping.
 Usefulness: Great for designers already used to working within the Adobe ecosystem.
@@ -106,39 +106,39 @@ Figma is a cloud-based design tool that allows teams to collaborate in real-time
 
 **Key Features**
 
-Real-Time Collaboration
+*Real-Time Collaboration*
 
 Multiple team members can work on the same file simultaneously, making it easy to share ideas and feedback in real-time.
 
-Auto Layout
+*Auto Layout*
 
 Automatically adjusts the layout of design elements, saving time and ensuring consistency across designs.
 
-Prototyping
+*Prototyping*
 
 What's more, create interactive prototypes directly in Figma and test your design ideas in no time.
 
-Design Systems
+*Design Systems*
 
 Establish and maintain design systems with reusable components, styles, and assets, thus ensuring the consistency of projects.
 
-Integration with Other Tools
+*Integration with Other Tools*
 
 Integrates well with Slack, Jira, and Microsoft Teams, hence improving your workflow and productivity.
 
-Version Control
+*Version Control*
 
 Keep a record of changes in designs with version history to easily roll back to previous versions should a need arise.
 
 **Why Figma is Useful for Wireframing**
 
-Collaboration: Figma’s real-time collaboration features make it easy for teams to work together, share feedback, and iterate on designs quickly.
+*Collaboration*: Figma’s real-time collaboration features make it easy for teams to work together, share feedback, and iterate on designs quickly.
 
-Efficiency: Features like Auto Layout and reusable components streamline the design process, saving time and ensuring consistency.
+*Efficiency*: Features like Auto Layout and reusable components streamline the design process, saving time and ensuring consistency.
 
-Prototyping: The ability to create interactive prototypes within the same tool allows for seamless transition from wireframes to high-fidelity designs.
+*Prototyping*: The ability to create interactive prototypes within the same tool allows for seamless transition from wireframes to high-fidelity designs.
 
-Accessibility: Because Figma is cloud-based, it can be accessed from anywhere, which is a big plus for remote teams and distributed workforces.
+*Accessibility*: Because Figma is cloud-based, it can be accessed from anywhere, which is a big plus for remote teams and distributed workforces.
 
 ---
 
@@ -199,34 +199,34 @@ Example: With Figma, designers and developers can work on the wireframes of the 
 
 Scenario: As a front-end engineer, I was assigned to develop the frontend to a healthcare system. The project was assigned without design or wireframes, so it was difficult to imagine what the UI would look like and how the user would flow through it. That made the implementation of the project quite difficult, as there was no guide on how to lay out the elements, navigate, or function.
 
-Usability Issues Identification: After the designer was brought in and wireframes were created, some potential usability issues were identified, including:
+*Usability Issues Identification*: After the designer was brought in and wireframes were created, some potential usability issues were identified, including:
 
-Complex Navigation: The original design had a very complicated structure of navigation, which made it difficult for users to find and access different parts of the system.
+*Complex Navigation*: The original design had a very complicated structure of navigation, which made it difficult for users to find and access different parts of the system.
 
-Confusing User Interface: The security features were not intuitive, making it confusing how to use them effectively.
+*Confusing User Interface*: The security features were not intuitive, making it confusing how to use them effectively.
 
-Inconsistent Layout: The positioning of elements was inconsistent, which caused a disjointed user experience.
+*Inconsistent Layout*: The positioning of elements was inconsistent, which caused a disjointed user experience.
 
-Usability Issue Resolution: With the wireframes in place, the following issues were resolved accordingly:
+*Usability Issue Resolution*: With the wireframes in place, the following issues were resolved accordingly:
 
-Simplified Navigation: The wireframes helped the team clean up the navigation structure to make it more intuitive and user-friendly. Clear labels and a logical flow were introduced to guide users through the system.
+*Simplified Navigation*: The wireframes helped the team clean up the navigation structure to make it more intuitive and user-friendly. Clear labels and a logical flow were introduced to guide users through the system.
 
-Improved User Interface: The security features were redesigned to be more straightforward with clear instructions and a step-by-step process. This would make the use of security features by the users much easier to comprehend.
+*Improved User Interface*: The security features were redesigned to be more straightforward with clear instructions and a step-by-step process. This would make the use of security features by the users much easier to comprehend.
 
-Consistent Layout: In all pages, wireframes made sure that consistency in layout was maintained, allowing users to keep track of a familiar design. Elements are strategically placed to enhance usability and accessibility.
+*Consistent Layout*: In all pages, wireframes made sure that consistency in layout was maintained, allowing users to keep track of a familiar design. Elements are strategically placed to enhance usability and accessibility.
 
-Impact on the Final Product: The wireframes provided a clear blueprint for the development team, making it easier to implement the project. The identified usability issues were resolved before the development phase, resulting in a more user-friendly and functional healthcare security system. The final product met the stakeholders' expectations and provided a seamless user experience.
+*Impact on the Final Product*: The wireframes provided a clear blueprint for the development team, making it easier to implement the project. The identified usability issues were resolved before the development phase, resulting in a more user-friendly and functional healthcare security system. The final product met the stakeholders' expectations and provided a seamless user experience.
 
 ---
 
 **Role of Wireframing in Ensuring a User-Friendly Design**
 
-Provides clarity: It gives a clear visual of what the user interface will look like, which helps designers and developers to understand the structure and functionality.
+*Provides clarity*: It gives a clear visual of what the user interface will look like, which helps designers and developers to understand the structure and functionality.
 
-Aids in communication: Wireframes are a means of communication among team members, clients, and stakeholders. This ensures that everyone is on the same page.
+*Aids in communication*: Wireframes are a means of communication among team members, clients, and stakeholders. This ensures that everyone is on the same page.
 
-Identifies usability issues: By visualizing the interface early, wireframes can help identify potential usability problems before development.
+*Identifies usability issues*: By visualizing the interface early, wireframes can help identify potential usability problems before development.
 
-Guiding Development: Wireframes provide a blueprint for the developers, which in turn makes it easier to implement the design accurately and efficiently.
+*Guiding Development*: Wireframes provide a blueprint for the developers, which in turn makes it easier to implement the design accurately and efficiently.
 
-Improving User Experience: By paying attention to layout, navigation, and functionality, wireframes make sure the final product will be user-friendly and meet the needs of the users.
+*Improving User Experience*: By paying attention to layout, navigation, and functionality, wireframes make sure the final product will be user-friendly and meet the needs of the users.
