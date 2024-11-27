@@ -1,3 +1,4 @@
+**WIREFRAMING**
 **wireframing** serves as a blueprint or skeletal framework of a website or application. It outlines the basic structure and layout without delving into detailed design elements like colors, fonts, or images.
 
 ---
@@ -29,11 +30,13 @@ By stripping away visual design elements, wireframes allow designers to concentr
 
 *Foundation for Prototyping*
 Wireframes provide a solid foundation for creating high-fidelity prototypes, allowing designers to test and refine the user interface before final implementation.
+
 ---
 
 **Types of Wireframes**
 *Low-Fidelity Wireframes*: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
 *High-Fidelity Wireframes*: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
 ---
 
 **Key Wireframing Elements**
@@ -56,6 +59,7 @@ Definition: The interactive elements allowing the user to perform certain tasks 
 Example: Bookings form, Payment Processor, and Modify a Booking in the booking management system represent functionality. The presence of these elements enables the consumer to perform his purpose-effectively make a booking, payment processing, and modification.
 
 From this link https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&node-type=canvas&t=jTiP4FVNf58OX1rc-0 the wirefame is high fidelity as illustrated by the presence of colour and font and the design is quite detailed.
+
 ---
 
 **FIGMA AND IT'S IMPORTANCE**
@@ -82,6 +86,8 @@ Adobe XD:
 Overview: A vector-based tool for designing and prototyping user experiences.
 Features include integrations with other Adobe products, responsive resize, and voice prototyping.
 Usefulness: Great for designers already used to working within the Adobe ecosystem.
+
+---
 
 **FIGMA**
 Figma is very highly recommended for wireframing due to its robust features and collaborative capabilities. Here are some of its features and why it's useful to wireframe
@@ -116,6 +122,7 @@ Efficiency: Features like Auto Layout and reusable components streamline the des
 Prototyping: The ability to create interactive prototypes within the same tool allows for seamless transition from wireframes to high-fidelity designs.
 
 Accessibility: Because Figma is cloud-based, it can be accessed from anywhere, which is a big plus for remote teams and distributed workforces.
+
 ---
 **BENEFITS OF WIREFRAMING, SOFTWARE DEVELOPMENT POINT OF VIEW**
 Wireframing is one of the core steps in software development, promising a number of advantages for developing an overall design and development cycle. Here's how wireframes guide the design process and facilitate communication among team members
@@ -156,6 +163,7 @@ Example: In case of the booking system, the developers can refer to the wirefram
 Benefit: Figma and Draw.io are tools that allow for real-time collaboration, which makes multiple team members able to work on wireframes simultaneously and instantly provide feedback.
 
 Example: With Figma, designers and developers can work on the wireframes of the booking system together, making edits in real-time based on discussions and feedback from the team.
+
 ---
 
 **Real-World Scenario**
